@@ -1,0 +1,6 @@
+n_aps,setting,expected_cut,approximation_ratio,optimal_state_probability,cx_gates,circuit_depth,noise_model
+6,exact_enumeration_milp,27.0,1.0,,0,0,none
+6,qaoa_p1_ideal,20.614141663433163,0.7634867282753023,0.21167385962986154,18,23,none
+6,qaoa_p1_noisy,19.81884765625,0.7340313946759259,0.177001953125,18,23,cx_depolarizing_0.01__readout_flip_0.015
+6,qaoa_p2_ideal,20.80567891865303,0.7705807006908529,0.286376953125,36,36,none
+6,qaoa_p2_noisy,20.064208984375,0.7431188512731481,0.209716796875,36,36,cx_depolarizing_0.01__readout_flip_0.015

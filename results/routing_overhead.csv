@@ -1,0 +1,4 @@
+circuit,cx_gates,depth,cx_overhead_vs_logical,depth_overhead_vs_logical
+Logical QAOA,158,74,0.0,0.0
+Generic transpiled,158,80,0.0,0.08108108108108114
+Heavy-hex-inspired routed,405,262,1.5632911392405062,2.5405405405405403

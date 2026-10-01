@@ -1,0 +1,2 @@
+n_aps,method,milp_optimum_cut,statevector_expected_cut,finite_shot_expected_cut,best_sample_cut,statevector_approximation_ratio,finite_shot_approximation_ratio,best_sample_ratio,optimizer_evaluations,optimizer_runtime_seconds,shots,exact_optimum_probability
+20,p=1 QAOA,0.21823971806398385,0.13753480935203538,0.13744477349401432,0.21821511831765372,0.6302006370431286,0.6297880821753905,0.9998872810753774,25,16.53577937099999,4096,0.0
