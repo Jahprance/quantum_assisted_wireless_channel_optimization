@@ -174,7 +174,7 @@ quantum_assisted_wireless_channel_optimization/
 ## Run locally
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-github-username>/quantum_assisted_wireless_channel_optimization.git
+git clone https://github.com/Jahprance/quantum_assisted_wireless_channel_optimization.git
 cd quantum_assisted_wireless_channel_optimization
 
 python -m venv .venv
